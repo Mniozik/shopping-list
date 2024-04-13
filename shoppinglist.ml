@@ -1,4 +1,5 @@
-(* ocamlc shoppinglist.ml -o menu *)
+(* ocamlc shoppinglist.ml -o shoppingmenu *)
+(* ./shopppingmenu *)
 
 let clear_terminal () =  
   let m_command = match Sys.os_type with
